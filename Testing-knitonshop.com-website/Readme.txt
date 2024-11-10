@@ -1,5 +1,9 @@
-In this directory, you will find a detailed checklist with the practice of testing the knitonshop.com website. 
-During testing, a certain number of bugs were found. Creating bug reports is still at an early stage. 
-Over time, bug reports will appear in this directory.
+Pet Project at KnitonShop (June 2024 – September 2024).
+(Testing the website knitonshop.com):
 
-Best regards, Stanislava.
+• The project's goal is to identify and prioritize bugs on the website. Create checklists and bug reports.
+• Test design techniques: Boundary Value Analysis, Equivalence Class Partitioning, State Transition Diagram, Error Guessing, and Exploratory Testing.
+• Tools used in the project: DevTools, Excel, Jira, ShareX, Draw.io, JMetr, Git Bash.
+• Achieved results: Acquired skills in website testing. Applied test design techniques to design and create test scenarios. Gained practical experience in creating test documentation such as checklists and bug reports.
+
+
